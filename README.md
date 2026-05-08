@@ -8,7 +8,7 @@ Esta pasta contém o primeiro trabalho prático da Unidade Curricular de Visão 
 - **data**: Contém todos os arquivos de dados necessários para a execução do trabalho através do ficheiro Python.
 
 - **code_python**: Esta pasta contém o código fonte principal do trabalho prático. Inclui um ficheiro .csv com as horas que cada *frame* possui. 
-    - **Nota**: Para mais detalhes sobre a estrutura e organização do código, consulte o arquivo [README.md](../CVis_2425_Assign1_JoaoPaulino_JudaImbo/code_python/README.md) que se encontra nesta pasta.
+    - **Nota**: Para mais detalhes sobre a estrutura e organização do código, consulte o arquivo [README.md](../code_python/README.md) que se encontra nesta pasta.
 
 - **docs**: Contém o relatório do trabalho prático.
 
