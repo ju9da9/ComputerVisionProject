@@ -1,18 +1,24 @@
-# Descrição das Pastas
+# Folder Description
 
-## Trabalho Pratico 1 - Visão Computacional
-Esta pasta contém o primeiro trabalho prático da Unidade Curricular de Visão Computacional, lecionada no 2º ano do Mestrado em Engenharia Eletrotécnica, Politécnico de Leiria. Aqui estão incluídos todos os arquivos e subpastas necessários para a execução e documentação deste trabalho.
+## Practical Assignment 1 - Computer Vision
 
-### Subpastas
+This folder contains the first laboratory assignment of the Computer Vision curricular unit, taught during the 2nd year of the Master’s Degree in Electrical Engineering at the Polytechnic Institute of Leiria.
 
-- **data**: Contém todos os arquivos de dados necessários para a execução do trabalho através do ficheiro Python.
+The main objective of this project was the exploration and understanding of topics related to image processing and information extraction from different color scales. A key focus of the assignment was the conversion of an analog clock time representation into a digital format.
 
-- **code_python**: Esta pasta contém o código fonte principal do trabalho prático. Inclui um ficheiro .csv com as horas que cada *frame* possui. 
-    - **Nota**: Para mais detalhes sobre a estrutura e organização do código, consulte o arquivo [README.md](https://github.com/ju9da9/ComputerVisionProject/tree/main/code_python) que se encontra nesta pasta.
+The project was developed using Visual Studio Code, together with the Python programming language and the open-source OpenCV library, widely used for computer vision and image processing applications.
 
-- **docs**: Contém o relatório do trabalho prático.
+This folder includes all the files and subfolders required for the execution and documentation of this project.
 
+### Subfolders
 
-## Contato
+- **data**: Contains all the data files required to execute the project through the Python file.
 
-Para mais informações, entre em contato pelo email: [juda.imbo99@gmail.com](mailto:juda.imbo99@gmail.com)
+- **code_python**: This folder contains the main source code of the practical assignment. It also includes a `.csv` file with the timestamps corresponding to each *frame*.
+    - **Note**: For more details about the code structure and organization, please refer to the [README.md](https://github.com/ju9da9/ComputerVisionProject/tree/main/code_python) file located in this folder.
+
+- **docs**: Contains the practical assignment report.
+
+## Contact
+
+For more information, please contact: [juda.imbo99@gmail.com](mailto:juda.imbo99@gmail.com)
