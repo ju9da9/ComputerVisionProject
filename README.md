@@ -1,6 +1,18 @@
-# Folder Description
+# Descrição das Pastas | Folder Description
 
-## Practical Assignment 1 - Computer Vision
+## Trabalho Prático 1 - Visão Computacional | Practical Assignment 1 - Computer Vision
+
+### Português
+
+Esta pasta contém o primeiro trabalho laboratorial da Unidade Curricular de Visão Computacional, lecionada no 2º ano do Mestrado em Engenharia Eletrotécnica do Politécnico de Leiria.
+
+O principal objetivo deste projeto foi a exploração e compreensão de temas relacionados com o processamento de imagem e extração de informação a partir de diferentes escalas de cor. Um dos principais focos do trabalho foi a conversão da representação temporal de um relógio analógico para formato digital.
+
+O projeto foi desenvolvido utilizando o Visual Studio Code, juntamente com a linguagem de programação Python e a biblioteca open-source OpenCV, amplamente utilizada em aplicações de visão computacional e processamento de imagem.
+
+Esta pasta inclui todos os ficheiros e subpastas necessários para a execução e documentação deste trabalho.
+
+### English
 
 This folder contains the first laboratory assignment of the Computer Vision curricular unit, taught during the 2nd year of the Master’s Degree in Electrical Engineering at the Polytechnic Institute of Leiria.
 
@@ -10,7 +22,20 @@ The project was developed using Visual Studio Code, together with the Python pro
 
 This folder includes all the files and subfolders required for the execution and documentation of this project.
 
-### Subfolders
+---
+
+## Subpastas | Subfolders
+
+### Português
+
+- **data**: Contém todos os ficheiros de dados necessários para a execução do trabalho através do ficheiro Python.
+
+- **code_python**: Esta pasta contém o código-fonte principal do trabalho prático. Inclui também um ficheiro `.csv` com as horas correspondentes a cada *frame*.
+    - **Nota**: Para mais detalhes sobre a estrutura e organização do código, consulte o ficheiro [README.md](https://github.com/ju9da9/ComputerVisionProject/tree/main/code_python) presente nesta pasta.
+
+- **docs**: Contém o relatório do trabalho prático.
+
+### English
 
 - **data**: Contains all the data files required to execute the project through the Python file.
 
@@ -19,6 +44,14 @@ This folder includes all the files and subfolders required for the execution and
 
 - **docs**: Contains the practical assignment report.
 
-## Contact
+---
+
+## Contato | Contact
+
+### Português
+
+Para mais informações, entre em contacto através do email: [juda.imbo99@gmail.com](mailto:juda.imbo99@gmail.com)
+
+### English
 
 For more information, please contact: [juda.imbo99@gmail.com](mailto:juda.imbo99@gmail.com)
